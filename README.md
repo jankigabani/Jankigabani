@@ -1,5 +1,5 @@
 ### 
-- 👋 Hi, I'm Janki
+- 👋 Hyy, I'm Janki
 - 🌱 I’m currently learning ML & AI
 - 👀 Interested in collaborating on Machine Learning projects.
 - 📫 Email me jankigabani10@gmail.com or jUst send msg on LinkedIn : JankiGabani
