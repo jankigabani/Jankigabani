@@ -13,3 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jankigabani&theme=react&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jankigabani&theme=react&hide_border=true)<br/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
