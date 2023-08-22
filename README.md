@@ -1,8 +1,10 @@
 ### 
-- 👋 Hyy, I'm Janki
-- 🌱 I’m currently learning ML & AI
-- 👀 Interested in collaborating on Machine Learning projects.
-- 📫 Email me jankigabani01@gmail.com or just send msg on LinkedIn : JankiGabani
+- 👋 Hey there, I'm Janki!
+- 🌱 Busy learning the magic of ML & AI.
+- 👀 I'm totally up for teaming up on AI/ML projects that rock.
+- ⚡ Fun fact: I can solve a Rubik's Cube in under 2 minutes!
+- 📫 Hit me up at jankigabani01@gmail.com or slide into my LinkedIn DMs at Janki Gabani. Let's chat! 🚀
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Machine Learning and Deep Learning
