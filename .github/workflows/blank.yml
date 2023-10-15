@@ -23,7 +23,7 @@ jobs:
       - name: Run Python script
         run: python GitActionPerformer.py
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+          MY_TOKEN: ${{ secrets.MY_TOKEN }}
 
       # Additional steps for the "profile readme" workflow can be added here
       - name: Run a one-line script
