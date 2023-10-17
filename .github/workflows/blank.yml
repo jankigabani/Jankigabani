@@ -17,6 +17,12 @@ jobs:
         with:
           python-version: '3.x'
 
+      # Explicitly set Node.js to version 16
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
       - name: Install dependencies
         run: pip install requests
 
