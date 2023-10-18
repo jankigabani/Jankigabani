@@ -47,7 +47,7 @@ if start_index != -1 and end_index != -1:
         new_readme_content = base64.b64encode(new_readme_text.encode("utf-8")).decode("utf-8")
 
         # Update the README file with the new content
-        commit_message = f"Update daily comment for {today}"
+        commit_message = f"Update README.md"
         update_url = f"{api_endpoint}/repos/{username}/{repo_name}/contents/{readme_path}"
         update_data = {
             "message": commit_message,
