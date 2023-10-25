@@ -21,5 +21,5 @@
   
 <p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jankigabani&show_icons=true&locale=en" alt="jankigabani" /></p>
 
-<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jankigabani&" alt="jankigabani" /></p>
+<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jankigabani" alt="jankigabani" /></p>
 
