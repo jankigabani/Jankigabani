@@ -2,8 +2,8 @@
 
 - 👋 Hey there, I'm Janki!
 - 🌱 Busy learning the magic of ML & AI.
-- 👀 I'm totally up for teaming up on AI/ML projects that rock.
-- ⚡ Fun fact: I can solve a Rubik's Cube in under 2 minutes!
+- 👀 I'm up for teaming up on AI/ML projects that rock.
+- ⚡ Fun fact:  Music heals 🎶✨
 - 📫 Reach me at jankigabani01@gmail.com or on my LinkedIn DMs at Janki Gabani. <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let's chat! 🚀
 
 <!-- START_SECTION: daily-comment -->
