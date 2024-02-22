@@ -7,15 +7,6 @@
 - 📫 Reach me at jankigabani01@gmail.com or on my LinkedIn DMs at Janki Gabani. <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let's chat! 🚀
 
 <!-- START_SECTION: daily-comment -->
-<!-- 2024-02-11 -->
-<!-- 2024-02-12 -->
-<!-- 2024-02-13 -->
-<!-- 2024-02-14 -->
-<!-- 2024-02-15 -->
-<!-- 2024-02-16 -->
-<!-- 2024-02-17 -->
-<!-- 2024-02-18 -->
-<!-- 2024-02-19 -->
 <!-- 2024-02-20 --><!-- END_SECTION: daily-comment -->
 
   
