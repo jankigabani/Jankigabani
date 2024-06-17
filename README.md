@@ -1,18 +1,20 @@
-![MasterHead](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
+<!-- ![MasterHead](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105) -->
 
-- 👋 Hey there, I'm Janki!
-- 🌱 Busy learning the magic of ML & AI.
-- 👀 I'm up for teaming up on AI/ML projects that rock.
-- ⚡ Fun fact:  Music heals 🎶✨
-- 📫 Reach me at jankigabani01@gmail.com or on my LinkedIn DMs at Janki Gabani. <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let's chat! 🚀
+<h2><i>Hie there, I'm Janki ^ ^</i></h2>
+
+- I build tools, either useful or unusually useless.
+- Busy learning the magic of LLM & Diffusion Model
+- Up for collaborating on any Interesting AI Projects
+- You can reach me on [X](https://twitter.com/jankigabani_), [LinkedIn](https://www.linkedin.com/in/janki-gabani/) or Subscribe to my [Substack](https://substack.com/@jankigabani)
+- Let's Build :D
 
 <!-- START_SECTION: daily-comment -->
 <!-- 2024-02-20 --><!-- END_SECTION: daily-comment -->
 
   
-<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jankigabani&show_icons=true&locale=en" alt="jankigabani" /></p>
+<!--<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jankigabani&show_icons=true&locale=en" alt="jankigabani" /></p>
 
-<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jankigabani" alt="jankigabani" /></p>
+<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jankigabani" alt="jankigabani" /></p>-->
 
 <!--
 ```math
